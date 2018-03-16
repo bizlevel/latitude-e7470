@@ -1,2 +1,2 @@
 # latitude-e7470
-All with CentOS 7x for Dell Latitude e7470
+All with Debian or Gentoo for Dell Latitude e7470
